@@ -1,0 +1,11 @@
+body{background-color: rgb(238, 254, 255); margin:0; }
+div{ font-family: arial; color: rgb(0, 0, 0); background-image: url(../IMG/code.jpg); width: 1900px; height: 300px; padding-top: 20px}
+h1 {font-size: 370%;text-align: center}
+h3 {font-size: 200%;text-align: center}
+img{width:350px}
+table{margin-left:300px}
+ul{font-family: Verdana, Geneva, Tahoma, sans-serif;font-size:30px; text-align: center; background-color: rgb(115, 192, 255); margin-top: 0 ; padding: 10px}
+p{font-family: Verdana, Geneva, Tahoma, sans-serif; font-size: 100%;margin-left: 300px; margin-right:300px; text-align: center}
+li{display: inline-block; padding-right:150px;}
+a{text-decoration: none; color: rgb(255, 255, 255)}
+a:hover{color: rgb(72, 72, 247)}
